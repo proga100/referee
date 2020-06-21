@@ -212,6 +212,9 @@ function referee_lastname_box_save( $post_id ) {
 
 
 
+
 }
+
+add_shortcode('wpbsearch', 'get_search_form');
 
 
