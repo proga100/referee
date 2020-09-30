@@ -1,0 +1,40 @@
+.active{
+    display: none;
+}
+
+th.check {
+    width: 20px !important;
+}
+
+td.fitnes_test_results {
+    text-align: center;
+}
+
+.refbtn {
+    letter-spacing: .1px;
+}
+
+table#example.dataTable tr.selected th.select-checkbox:after {
+
+    margin-top: -40px;
+
+}
+
+table.dataTable tr.selected th.select-checkbox:after {
+
+    margin-top: -1px;
+
+}
+
+table.dataTable th.select-checkbox:before{
+    margin-top: 8px;
+}
+table#example.dataTable th.select-checkbox:before{
+    margin-top: -40px;
+}
+
+.dataTables_wrapper .dt-buttons{
+    margin-left: 0px !important;
+}
+
+

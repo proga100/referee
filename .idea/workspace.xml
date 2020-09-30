@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2411bdf0-a298-494a-9939-fc737d68f38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/referee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FitnessTestResults.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/dataTables.checkboxes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/referee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csvreader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/referee_transactions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCSV.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleXLSX.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload_fitness_test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload_referee_transactions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/referee.php" beforeDir="false" afterPath="$PROJECT_DIR$/referee.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gxzCDPB4FQj83UOVUFwqzndUkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2411bdf0-a298-494a-9939-fc737d68f38d" name="Default Changelist" comment="" />
+      <created>1599070901903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599070901903</updated>
+      <workItem from="1599070903052" duration="2608000" />
+      <workItem from="1601451992665" duration="1606000" />
+      <workItem from="1601455261299" duration="13656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="147" key="#Deployment" timestamp="1601452146185">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="460" y="147" key="#Deployment/0.0.1600.860@0.0.1600.860" timestamp="1601452146185" />
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1599071270495" />
+    <state x="797" y="250" key="ftp.server.browser" timestamp="1599070996838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1599070996838" />
+  </component>
+</project>
